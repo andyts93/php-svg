@@ -1,0 +1,17 @@
+{
+    "name": "andyts93/php-svg",
+    "type": "project",
+    "require": {
+        "meyfa/php-svg": "^0.16.0",
+        "ext-fileinfo": "*"
+    },
+    "authors": [
+        {
+            "name": "Andrea",
+            "email": "and1@live.it"
+        }
+    ],
+    "autoload": {
+        "classmap": ["Exceptions"]
+    }
+}
