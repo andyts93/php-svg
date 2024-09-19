@@ -38,7 +38,7 @@ This PHP script processes an SVG file, colors specific elements (representing te
 
 ## Example
 You can use `index.php` file in this repository for some quick examples.
-To try the `F` mode you can start a PHP server with `php -S localhost:8000` and navigate to http://localhost:8000
+To try the `O` mode you can start a PHP server with `php -S localhost:8000` and navigate to http://localhost:8000
 ```php
 require 'path/to/toothColor.php';
 
